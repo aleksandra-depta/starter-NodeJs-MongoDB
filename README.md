@@ -1,6 +1,6 @@
 # Setup
 
-1. Create new project & cluster in MongoBd ATLAS
+1. Create a new project & cluster in MongoBd ATLAS
 
 2. Click Connect - follow instructions 
 
@@ -12,6 +12,6 @@
 
 4. To run this project, install it locally using npm:
 
-    npm install
-    npm start
+        npm install
+        npm start
 
